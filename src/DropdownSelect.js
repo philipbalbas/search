@@ -3,7 +3,7 @@ import { useCombobox } from 'downshift'
 import { useVirtual } from 'react-virtual'
 
 import useFuzzy from './use-fuzzy'
-import schools from './schools'
+import schools from './schools.json'
 
 const menuStyles = {
   maxHeight: 250,
